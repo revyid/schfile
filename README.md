@@ -43,7 +43,7 @@ This repository contains my school assignments and files. While these might be o
 </div>
 
 ## 📅 Period
-Semester [X] Academic Year [2023/2025]
+Semester V. Academic Year [2023/2025]
 
 <div align="center">
 
