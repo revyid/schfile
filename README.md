@@ -5,8 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Welcome+to+my+school+files+%F0%9F%93%9A;Organizing+assignments+with+style+%E2%9C%A8;Keep+Learning%2C+Keep+Growing+%F0%9F%8C%B1;Education+is+the+key+to+success+%F0%9F%94%91;Making+memories+in+school+%F0%9F%8E%93;Every+assignment+counts+%E2%9C%85)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)](https://github.com/revyid/schfile/stargazers)
+![Profile Views](https://komarev.com/ghpvc/?username=revyid&color=brightgreen)
+[![GitHub stars](https://img.shields.io/github/stars/revyid/schfile?style=social)](https://github.com/revyid/schfile/stargazers)
 
 </div>
 
@@ -43,7 +43,7 @@ This repository contains my school assignments and files. While these might be o
 </div>
 
 ## 📅 Period
-Semester [X] Academic Year [20XX/20XX]
+Semester [X] Academic Year [2023/2025]
 
 <div align="center">
 
@@ -52,5 +52,5 @@ Semester [X] Academic Year [20XX/20XX]
 ---
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+repository!+%F0%9F%91%8B;Feel+free+to+come+back+anytime+%F0%9F%98%8A" alt="Footer Typing">
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Revy.
 </div>
